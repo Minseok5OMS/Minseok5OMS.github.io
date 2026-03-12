@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: minseok.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,6 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am Minseok Oh, an M.S. student in the Department of Electrical Engineering and Computer Science (EECS) at DGIST, advised by Prof. Sung-Hoon Im.
+
+My research lies at the intersection of Computer Vision and Deep Learning, with a specialized focus on Generative Models. I am particularly passionate about Controllable Generation, striving to develop frameworks that allow for precise, intuitive manipulation of synthesized visual content.
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
