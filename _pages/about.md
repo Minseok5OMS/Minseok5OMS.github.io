@@ -31,4 +31,4 @@ I am Minseok Oh, an M.S. student in the Department of Electrical Engineering and
 
 My research lies at the intersection of Computer Vision and Deep Learning, with a specialized focus on Generative Models. I am particularly passionate about Controllable Generation, striving to develop frameworks that allow for precise, intuitive manipulation of synthesized visual content.
 
-[Google Scholar](https://scholar.google.com/citations?user=syJStNwAAAAJ&hl=ko) [LinkedIn](https://www.linkedin.com/in/minseok-oh-5a0513354/)
+[Google Scholar](https://scholar.google.com/citations?user=syJStNwAAAAJ&hl=ko) | [LinkedIn](https://www.linkedin.com/in/minseok-oh-5a0513354/)
