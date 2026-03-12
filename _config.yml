@@ -98,10 +98,10 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: False
 
 related_blog_posts:
-  enabled: true
+  enabled: False
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -155,15 +155,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: False
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: False
   teachings:
-    output: true
+    output: False
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
