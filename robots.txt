@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Minseok5OMS.github.io/al-folio/sitemap.xml
+Sitemap: https://Minseok5OMS.github.io/sitemap.xml
