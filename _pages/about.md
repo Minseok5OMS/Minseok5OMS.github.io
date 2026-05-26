@@ -26,6 +26,9 @@ latest_posts:
   enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+visitor_globe:
+  enabled: true
 ---
 I am Minseok Oh, an M.S. student in the Department of Electrical Engineering and Computer Science (EECS) at DGIST, advised by Prof. Sung-Hoon Im.
 
