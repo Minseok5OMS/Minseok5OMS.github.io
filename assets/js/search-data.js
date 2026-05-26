@@ -400,7 +400,7 @@ ninja.data = [{
             },},{id: "news-attended-summer-session-a8-at-the-university-of-california-los-angeles-ucla-earning-a-4-0-4-0-gpa",
           title: 'Attended Summer Session A8 at the University of California Los Angeles (UCLA), earning...',
           description: "",
-          section: "News",},{id: "news-started-an-undergraduate-student-internship-at-the-university-of-virginia-uva-raiselab-working-on-site-from-jun-2025-to-aug-2025-and-continuing-remotely-afterward",
+          section: "News",},{id: "news-started-an-undergraduate-student-internship-at-the-university-of-virginia-uva-raiselab-working-on-site-from-jun-2025-to-aug-2025-and-continuing-remotely-from-aug-2025-to-may-2026",
           title: 'Started an undergraduate student internship at the University of Virginia (UVA) RAISELab, working...',
           description: "",
           section: "News",},{id: "news-presented-wardroberl-prompt-aware-reinforcement-learning-based-top-bottom-recommendation-at-ictc-2025",
@@ -409,8 +409,8 @@ ninja.data = [{
           section: "News",},{id: "news-infinite-story-a-training-free-consistent-text-to-image-generation-was-accepted-to-aaai-2026-as-an-oral-presentation",
           title: '“Infinite-Story: A Training-Free Consistent Text-to-Image Generation” was accepted to AAAI 2026 as an...',
           description: "",
-          section: "News",},{id: "news-freestyle-an-anchor-free-mechanism-for-training-free-style-aligned-image-generation-was-accepted-to-cvpr-2026-findings",
-          title: '“FREESTYLE: An Anchor-Free Mechanism for Training-Free Style-Aligned Image Generation” was accepted to CVPR...',
+          section: "News",},{id: "news-freestyle-an-anchor-free-mechanism-for-training-free-style-aligned-image-generation-appeared-at-cvpr-2026-findings",
+          title: '“FREESTYLE: An Anchor-Free Mechanism for Training-Free Style-Aligned Image Generation” appeared at CVPR 2026...',
           description: "",
           section: "News",},{id: "projects-dynamicspace-single-image-based-3d-scene-reconstruction-via-textual-descriptions",
           title: 'DynamicSpace: Single-Image Based 3D Scene Reconstruction via Textual Descriptions',
@@ -422,6 +422,11 @@ ninja.data = [{
           description: "Autonomous driving project, Feb 2024 - Jun 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
+            },},{id: "projects-human-avatar-generation-from-single-occluded-image",
+          title: 'Human Avatar Generation From Single Occluded Image',
+          description: "Human avatar generation project, Mar 2026 - May 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project.html";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
