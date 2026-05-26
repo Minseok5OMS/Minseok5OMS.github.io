@@ -50,10 +50,15 @@ body.sticky-bottom-footer {
 
 .cv-section-page {
   h2 {
-    margin-top: 2.25rem;
-    padding-top: 1.25rem;
+    width: fit-content;
+    margin-top: 2.4rem;
+    margin-bottom: 1.1rem;
+    padding-top: 1.35rem;
+    padding-bottom: 0.25rem;
     border-top: 1px solid var(--global-divider-color);
-    font-size: 1.3rem;
+    border-bottom: 2px solid var(--global-theme-color);
+    font-size: 1.65rem;
+    font-weight: 600;
   }
 
   h2:first-child {
