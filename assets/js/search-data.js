@@ -18,14 +18,28 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Research and engineering projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-education-amp-experience",
+          title: "Education &amp; Experience",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/education-experience/";
+          },
+        },{id: "nav-honors-amp-awards",
+          title: "Honors &amp; Awards",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/honors-awards/";
+          },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum vitae and academic background.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -387,51 +401,16 @@ ninja.data = [{
             },},{id: "news-a-paper-accepted-at-cvpr-2026-findings-sparkles-smile",
           title: 'A paper accepted at CVPR 2026 (Findings)! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-dynamicspace-single-image-based-3d-scene-reconstruction-via-textual-descriptions",
+          title: 'DynamicSpace: Single-Image Based 3D Scene Reconstruction via Textual Descriptions',
+          description: "Undergraduate Group Research Program (UGRP), Feb 2024 - Dec 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-raspberry-pi-4-robot-autonomous-driving-project",
+          title: 'Raspberry Pi 4 Robot Autonomous Driving Project',
+          description: "Autonomous driving project, Feb 2024 - Jun 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
