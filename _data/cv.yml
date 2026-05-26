@@ -5,7 +5,7 @@ cv:
   phone: "+82-10-7470-2387"
   location: Daegu, South Korea
   image: ""
-  summary: Research interests include computer vision, image/video generation with diffusion and autoregressive models, and controllable or interactive generative models.
+  summary: Research interests include computer vision, deep learning, image/video generation with diffusion and autoregressive models, and generative world models.
 
   social_networks: []
 
@@ -44,9 +44,9 @@ cv:
         position: Undergraduate Student Intern
         location: Charlottesville, VA, USA
         start_date: 2025-06
-        end_date: Present
+        end_date: 2026-05
         highlights:
-          - On-site from Jun 2025 to Aug 2025; remote from Aug 2025 to present.
+          - On-site from Jun 2025 to Aug 2025; remote from Aug 2025 to May 2026.
 
       - company: Daegu Gyeongbuk Institute of Science and Technology (DGIST), CVLab
         position: Undergraduate Student Researcher
@@ -98,7 +98,7 @@ cv:
           - Ferdinando Fioretto
           - Sunghoon Im
         publisher: CVPR 2026 Findings
-        releaseDate: 2026-02
+        releaseDate: 2026-06
         summary: International publication. Minseok Oh and Jihun Park contributed equally.
 
       - title: "Infinite-Story: A Training-Free Consistent Text-to-Image Generation"
@@ -127,7 +127,7 @@ cv:
           - Jaeyeul Kim
           - Woo Chool Park
           - Sunghoon Im
-        publisher: arXiv preprint, under review
+        publisher: arXiv preprint (Under Review)
         releaseDate: 2026-03
 
       - title: "WardrobeRL: Prompt-Aware Reinforcement Learning Based Top-Bottom Recommendation"
@@ -141,6 +141,7 @@ cv:
 
     Teaching Experience:
       - bullet: "Teaching Assistant, Introduction to Programming, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Aug 2024 - Dec 2024. Supported a class of 100+ students."
+      - bullet: "Teaching Assistant, Introduction to Computer Vision, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Mar 2026 - Jun 2026. Supported a class of 36 students."
 
     Skills:
       - name: Language
@@ -152,7 +153,7 @@ cv:
 
     Interests:
       - name: Computer Vision and Generative Models
-        keywords: "Computer Vision, Deep Learning, Image/Video Generation, Diffusion Models, Autoregressive Models, Controllable Generative Models, Interactive Generative Models"
+        keywords: "Computer Vision, Deep Learning, Image/Video Generation, Diffusion Models, Autoregressive Models, Generative World Models"
 
     Projects:
       - name: "DynamicSpace: Single-Image Based 3D Scene Reconstruction via Textual Descriptions"
@@ -164,6 +165,10 @@ cv:
         start_date: 2024-02
         end_date: 2024-06
 
+      - name: Human Avatar Generation From Single Occluded Image
+        start_date: 2026-03
+        end_date: 2026-05
+
     Patents:
       - bullet: "METHOD FOR GENERATING STYLE ALIGNED IMAGES USING AUTOREGRESSIVE MODEL. (10-20250054822)"
       - bullet: "APPARATUS AND METHOD FOR IMPROVING 3D GEOMETRIC PROCESSING PERFORMANCE OF MONOCULAR DEPTH BASED ON PERTURBATION SENSITIVITY (10-2026-0045460)"
@@ -173,3 +178,4 @@ cv:
 
     Social Experience:
       - bullet: "Director of Finance, Student Council, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Jan 2024 - Dec 2024."
+      - bullet: "Student Volunteer, IEEE VR 2026, Daegu EXCO, Mar 2026."

@@ -47,7 +47,7 @@ nav_order: 4
   <div class="cv-logo-body">
     <h3>University of Virginia (UVA), RAISELab</h3>
     <p><strong>Undergraduate Student Intern</strong><br>
-    Jun 2025 - Aug 2025, on-site; Aug 2025 - Present, remote</p>
+    Jun 2025 - Aug 2025, on-site; Aug 2025 - May 2026, remote</p>
   </div>
 </div>
 
@@ -81,6 +81,16 @@ nav_order: 4
   </div>
 </div>
 
+<div class="cv-logo-entry">
+  <div class="cv-logo"><img src="{{ '/assets/img/education/dgist-logo.jpeg' | relative_url }}" alt="DGIST logo"></div>
+  <div class="cv-logo-body">
+    <h3>Daegu Gyeongbuk Institute of Science and Technology (DGIST)</h3>
+    <p><strong>Teaching Assistant, Introduction to Computer Vision</strong><br>
+    Mar 2026 - Jun 2026<br>
+    Supported a class of 36 students.</p>
+  </div>
+</div>
+
 ## Social Experience
 
 <div class="cv-logo-entry">
@@ -89,6 +99,15 @@ nav_order: 4
     <h3>Student Council, Daegu Gyeongbuk Institute of Science and Technology (DGIST)</h3>
     <p><strong>Director of Finance</strong><br>
     Jan 2024 - Dec 2024</p>
+  </div>
+</div>
+
+<div class="cv-logo-entry">
+  <div class="cv-logo"><img src="{{ '/assets/img/education/dgist-logo.jpeg' | relative_url }}" alt="DGIST logo"></div>
+  <div class="cv-logo-body">
+    <h3>IEEE VR 2026, Daegu EXCO</h3>
+    <p><strong>Student Volunteer</strong><br>
+    Mar 2026</p>
   </div>
 </div>
 

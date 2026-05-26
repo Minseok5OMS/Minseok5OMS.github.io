@@ -32,7 +32,7 @@ visitor_globe:
 ---
 I am Minseok Oh, an M.S. student in the Department of Electrical Engineering and Computer Science (EECS) at DGIST, advised by Prof. Sung-Hoon Im.
 
-I received my B.S. in Computer Engineering from Daegu Gyeongbuk Institute of Science and Technology (DGIST) in Feb 2026. My research lies at the intersection of Computer Vision and Deep Learning, with a specialized focus on Generative Models and Generative World Models. I am particularly passionate about Controllable Generation, striving to develop frameworks that allow for precise, intuitive manipulation of synthesized visual content.
+I received my B.S. in Computer Engineering from Daegu Gyeongbuk Institute of Science and Technology (DGIST) in Feb 2026. My research lies at the intersection of Computer Vision and Deep Learning, with a specialized focus on Image/Video Generation, including Diffusion Models, Autoregressive Models, and Generative World Models. I am particularly passionate about Controllable Generation, striving to develop frameworks that allow for precise, intuitive manipulation of synthesized visual content.
 
 <p class="about-links">
   <a href="mailto:harrymark0@dgist.ac.kr"><i class="fa-solid fa-envelope"></i> Email</a>
