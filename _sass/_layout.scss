@@ -64,14 +64,63 @@ body.sticky-bottom-footer {
 
   h3 {
     margin-top: 1.15rem;
-    font-size: 1.05rem;
+    font-size: 1.18rem;
     line-height: 1.35;
+  }
+
+
+  .cv-logo-entry {
+    display: flex;
+    gap: 1.1rem;
+    align-items: flex-start;
+    margin: 1.1rem 0 1.35rem;
+  }
+
+  .cv-logo {
+    flex: 0 0 92px;
+    display: flex;
+    justify-content: center;
+    padding-top: 0.15rem;
+  }
+
+  .cv-logo img {
+    max-width: 92px;
+    max-height: 72px;
+    object-fit: contain;
+  }
+
+  .cv-logo-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .cv-logo-body h3 {
+    margin-top: 0;
+  }
+
+  .cv-logo-body p {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 575px) {
+    .cv-logo-entry {
+      gap: 0.85rem;
+    }
+
+    .cv-logo {
+      flex-basis: 68px;
+    }
+
+    .cv-logo img {
+      max-width: 68px;
+      max-height: 56px;
+    }
   }
 }
 
 .cv-awards-page {
   h3 {
-    font-size: 1.02rem;
+    font-size: 1.14rem;
   }
 }
 
