@@ -120,7 +120,16 @@ body.sticky-bottom-footer {
 
 .cv-awards-page {
   h3 {
+    margin-top: 1.25rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--global-divider-color);
     font-size: 1.14rem;
+  }
+
+  h3:first-of-type {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
   }
 }
 
