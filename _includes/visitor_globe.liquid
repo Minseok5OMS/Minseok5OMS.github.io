@@ -5,7 +5,7 @@
         {{ site.visitor_globe_embed }}
       </div>
     {% else %}
-      <canvas class="visitor-globe-canvas" width="180" height="180" aria-label="rotating visitor map globe"></canvas>
+      <canvas class="visitor-globe-canvas" width="140" height="140" aria-label="rotating visitor map globe"></canvas>
       <script defer src="{{ '/assets/js/visitor-globe.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
   </div>
