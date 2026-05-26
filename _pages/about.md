@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -27,9 +27,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 I am Minseok Oh, an M.S. student in the Department of Electrical Engineering and Computer Science (EECS) at DGIST, advised by Prof. Sung-Hoon Im.
 
-My research lies at the intersection of Computer Vision and Deep Learning, with a specialized focus on Generative Models. I am particularly passionate about Controllable Generation, striving to develop frameworks that allow for precise, intuitive manipulation of synthesized visual content.
+I received my B.S. in Computer Engineering from Daegu Gyeongbuk Institute of Science and Technology (DGIST) in Feb 2026. My research lies at the intersection of Computer Vision and Deep Learning, with a specialized focus on Generative Models and Generative World Models. I am particularly passionate about Controllable Generation, striving to develop frameworks that allow for precise, intuitive manipulation of synthesized visual content.
 
-[Google Scholar](https://scholar.google.com/citations?user=syJStNwAAAAJ&hl=ko) | [LinkedIn](https://www.linkedin.com/in/minseok-oh-5a0513354/)
+<p class="about-links">
+  <a href="mailto:harrymark0@dgist.ac.kr"><i class="fa-solid fa-envelope"></i> Email</a>
+  <span class="link-separator">|</span>
+  <a href="https://scholar.google.com/citations?user=syJStNwAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+  <span class="link-separator">|</span>
+  <a href="https://www.linkedin.com/in/minseok-oh-5a0513354/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+</p>
