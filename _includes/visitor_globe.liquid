@@ -1,18 +1,12 @@
 <section class="visitor-globe-section" aria-label="visitor map">
-  <h2>visitor map</h2>
   <div class="visitor-globe-frame">
     {% if site.visitor_globe_embed %}
-      {{ site.visitor_globe_embed }}
-    {% else %}
-      <div class="visitor-globe-fallback" aria-hidden="true">
-        <div class="visitor-globe-orbit"></div>
-        <div class="visitor-globe-sphere">
-          <span class="visitor-globe-pin pin-1"></span>
-          <span class="visitor-globe-pin pin-2"></span>
-          <span class="visitor-globe-pin pin-3"></span>
-          <span class="visitor-globe-pin pin-4"></span>
-        </div>
+      <div class="visitor-globe-embed">
+        {{ site.visitor_globe_embed }}
       </div>
+    {% else %}
+      <canvas class="visitor-globe-canvas" width="180" height="180" aria-label="rotating visitor map globe"></canvas>
+      <script defer src="{{ '/assets/js/visitor-globe.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
   </div>
 </section>

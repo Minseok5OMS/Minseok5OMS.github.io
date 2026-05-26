@@ -150,90 +150,39 @@ body.sticky-bottom-footer {
 
 // TODO: redefine projects layout.
 
-
 .visitor-globe-section {
-  margin-top: 2.5rem;
-  text-align: center;
-
-  h2 {
-    margin-bottom: 1rem;
-  }
+  margin-top: 1.6rem;
+  display: flex;
+  justify-content: center;
 }
 
 .visitor-globe-frame {
   display: flex;
   justify-content: center;
-  min-height: 220px;
+  align-items: center;
+  width: 190px;
+  min-height: 190px;
+  margin: 0 auto;
 }
 
-.visitor-globe-fallback {
-  position: relative;
-  width: min(280px, 80vw);
-  aspect-ratio: 1;
-  display: grid;
-  place-items: center;
+.visitor-globe-canvas {
+  width: 180px;
+  height: 180px;
+  display: block;
 }
 
-.visitor-globe-orbit {
-  position: absolute;
-  width: 94%;
-  height: 94%;
-  border: 1px solid var(--global-divider-color);
-  border-radius: 50%;
+.visitor-globe-embed {
+  width: 190px;
+  min-height: 190px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.visitor-globe-sphere {
-  position: relative;
-  width: 72%;
-  height: 72%;
-  overflow: hidden;
-  border: 2px solid #8a8f98;
-  border-radius: 50%;
-  background:
-    radial-gradient(circle at 35% 28%, rgba(255, 255, 255, 0.82), transparent 28%),
-    repeating-linear-gradient(90deg, transparent 0 20px, rgba(138, 143, 152, 0.28) 21px 23px, transparent 24px 44px),
-    repeating-linear-gradient(0deg, transparent 0 27px, rgba(138, 143, 152, 0.22) 28px 30px, transparent 31px 58px),
-    #f2f4f7;
-  box-shadow: inset -18px -12px 28px rgba(0, 0, 0, 0.1);
-  animation: visitor-globe-spin 14s linear infinite;
+.visitor-globe-embed iframe,
+.visitor-globe-embed embed,
+.visitor-globe-embed object {
+  max-width: 190px;
+  max-height: 190px;
 }
 
-.visitor-globe-pin {
-  position: absolute;
-  width: 8px;
-  height: 8px;
-  border: 2px solid #ffffff;
-  border-radius: 50%;
-  background: var(--global-theme-color);
-  box-shadow: 0 0 0 4px rgba(0, 118, 223, 0.16);
-}
-
-.visitor-globe-pin.pin-1 {
-  top: 32%;
-  left: 28%;
-}
-
-.visitor-globe-pin.pin-2 {
-  top: 46%;
-  left: 62%;
-}
-
-.visitor-globe-pin.pin-3 {
-  top: 58%;
-  left: 42%;
-}
-
-.visitor-globe-pin.pin-4 {
-  top: 25%;
-  left: 70%;
-}
-
-@keyframes visitor-globe-spin {
-  from {
-    background-position: 0 0, 0 0, 0 0, 0 0;
-  }
-
-  to {
-    background-position: 0 0, 88px 0, 0 0, 0 0;
-  }
-}
