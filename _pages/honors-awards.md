@@ -6,6 +6,8 @@ nav: true
 nav_order: 5
 ---
 
+<div class="cv-section-page cv-awards-page" markdown="1">
+
 ### Outstanding Paper Award
 **Undergraduate Paper Competition, KICS**  
 Feb 2026
@@ -26,3 +28,5 @@ Feb 2025
 **NAVER CONNECT**  
 Mar 2024  
 Undergraduate mentors in the Software Ya Nolja (Let's Play Software) Winter Sprout Camp.
+
+</div>

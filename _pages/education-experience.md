@@ -6,6 +6,8 @@ nav: true
 nav_order: 4
 ---
 
+<div class="cv-section-page" markdown="1">
+
 ## Education
 
 ### Daegu Gyeongbuk Institute of Science and Technology (DGIST)
@@ -49,3 +51,5 @@ Supported a class of 100+ students.
 ### Student Council, Daegu Gyeongbuk Institute of Science and Technology (DGIST)
 **Director of Finance**  
 Jan 2024 - Dec 2024
+
+</div>

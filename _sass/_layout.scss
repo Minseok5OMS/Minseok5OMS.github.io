@@ -40,6 +40,41 @@ body.sticky-bottom-footer {
   }
 }
 
+.profile.profile-compact {
+  max-width: 160px;
+
+  img {
+    width: 100%;
+  }
+}
+
+.cv-section-page {
+  h2 {
+    margin-top: 2.25rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--global-divider-color);
+    font-size: 1.3rem;
+  }
+
+  h2:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+  }
+
+  h3 {
+    margin-top: 1.15rem;
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+}
+
+.cv-awards-page {
+  h3 {
+    font-size: 1.02rem;
+  }
+}
+
 // Content layout uses Bootstrap's grid system with responsive columns
 // Main content flows naturally through container-mt-5 and Bootstrap grid classes
 // See _layouts/default.liquid and _includes/projects.liquid for examples
