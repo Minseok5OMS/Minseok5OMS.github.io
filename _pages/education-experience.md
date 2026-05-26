@@ -103,7 +103,7 @@ nav_order: 4
 </div>
 
 <div class="cv-logo-entry">
-  <div class="cv-logo"><img src="{{ '/assets/img/education/dgist-logo.jpeg' | relative_url }}" alt="DGIST logo"></div>
+  <div class="cv-logo"><img src="{{ '/assets/img/education/ieeevr.png' | relative_url }}" alt="IEEE VR logo"></div>
   <div class="cv-logo-body">
     <h3>IEEE VR 2026, Daegu EXCO</h3>
     <p><strong>Student Volunteer</strong><br>
