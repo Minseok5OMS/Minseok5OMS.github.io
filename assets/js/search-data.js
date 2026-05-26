@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -390,16 +397,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-attended-summer-session-a8-at-the-university-of-california-los-angeles-ucla-earning-a-4-0-4-0-gpa",
+          title: 'Attended Summer Session A8 at the University of California Los Angeles (UCLA), earning...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-an-undergraduate-student-internship-at-the-university-of-virginia-uva-raiselab-working-on-site-from-jun-2025-to-aug-2025-and-continuing-remotely-afterward",
+          title: 'Started an undergraduate student internship at the University of Virginia (UVA) RAISELab, working...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-paper-accepted-at-cvpr-2026-findings-sparkles-smile",
-          title: 'A paper accepted at CVPR 2026 (Findings)! :sparkles: :smile:',
+          section: "News",},{id: "news-presented-wardroberl-prompt-aware-reinforcement-learning-based-top-bottom-recommendation-at-ictc-2025",
+          title: 'Presented “WardrobeRL: Prompt-Aware Reinforcement Learning Based Top-Bottom Recommendation” at ICTC 2025.',
+          description: "",
+          section: "News",},{id: "news-infinite-story-a-training-free-consistent-text-to-image-generation-was-accepted-to-aaai-2026-as-an-oral-presentation",
+          title: '“Infinite-Story: A Training-Free Consistent Text-to-Image Generation” was accepted to AAAI 2026 as an...',
+          description: "",
+          section: "News",},{id: "news-freestyle-an-anchor-free-mechanism-for-training-free-style-aligned-image-generation-was-accepted-to-cvpr-2026-findings",
+          title: '“FREESTYLE: An Anchor-Free Mechanism for Training-Free Style-Aligned Image Generation” was accepted to CVPR...',
           description: "",
           section: "News",},{id: "projects-dynamicspace-single-image-based-3d-scene-reconstruction-via-textual-descriptions",
           title: 'DynamicSpace: Single-Image Based 3D Scene Reconstruction via Textual Descriptions',
