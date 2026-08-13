@@ -56,7 +56,7 @@ nav_order: 4
   <div class="cv-logo-body">
     <h3>Daegu Gyeongbuk Institute of Science and Technology (DGIST), CVLab</h3>
     <p><strong>Undergraduate Student Researcher</strong><br>
-    Jul 2025 - Aug 2025; Jan 2025 - Feb 2026</p>
+    Jul 2024 - Aug 2024; Jan 2025 - Feb 2026</p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ nav_order: 4
   <div class="cv-logo-body">
     <h3>Daegu Gyeongbuk Institute of Science and Technology (DGIST), RTCL</h3>
     <p><strong>Undergraduate Student Researcher</strong><br>
-    Jan 2025 - Jun 2025</p>
+    Jan 2024 - Jun 2024</p>
   </div>
 </div>
 

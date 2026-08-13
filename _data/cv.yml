@@ -51,16 +51,16 @@ cv:
       - company: Daegu Gyeongbuk Institute of Science and Technology (DGIST), CVLab
         position: Undergraduate Student Researcher
         location: Daegu, South Korea
-        start_date: 2025-01
+        start_date: 2024-07
         end_date: 2026-02
         highlights:
-          - Research periods: Jul 2025 - Aug 2025 and Jan 2025 - Feb 2026.
+          - Research periods: Jul 2024 - Aug 2024 and Jan 2025 - Feb 2026.
 
       - company: Daegu Gyeongbuk Institute of Science and Technology (DGIST), RTCL
         position: Undergraduate Student Researcher
         location: Daegu, South Korea
-        start_date: 2025-01
-        end_date: 2025-06
+        start_date: 2024-01
+        end_date: 2024-06
 
     Awards:
       - title: Outstanding Paper Award
@@ -88,6 +88,17 @@ cv:
         summary: Undergraduate mentors in the Software Ya Nolja (Let's Play Software) Winter Sprout Camp.
 
     Publications:
+      - title: "Revise Once, View Everywhere: Text-Editable Single-Image Novel View Synthesis"
+        authors:
+          - Minseok Oh
+          - Jihun Park
+          - Hyeonseo Jo
+          - Jiwon Jang
+          - Sunghoon Im
+        publisher: Under Review
+        releaseDate: 2026-07
+        summary: International manuscript under review.
+
       - title: "FREESTYLE: An Anchor-Free Mechanism for Training-Free Style-Aligned Image Generation"
         authors:
           - Minseok Oh
